@@ -81,68 +81,68 @@ mainMenu:
     openSourceHint: Šis žaidimas yra atvirojo kodo!
     discordLink: Nuoroda į oficialų Discord serverį
     helpTranslate: Prisidėkite prie žaidimo vertimo!
-    browserWarning: Sorry, but the game is known to run slow on your browser! Get
-        the standalone version or download chrome for the full experience.
-    savegameLevel: Level <x>
-    savegameLevelUnknown: Unknown Level
-    continue: Continue
-    newGame: New Game
-    madeBy: Made by <author-link>
+    browserWarning: Atsiprašome, bet šis žaidimas lėtai veikia ant jūsų naršyklės! Gaukite
+        pilną versiją arba atsisiuskite Chrome, kad žaidimas būtų malonesnis žaisti.
+    savegameLevel: Lygis <x>
+    savegameLevelUnknown: Nežinomas Lygis
+    continue: Tęsti
+    newGame: Naujas Žaidimas
+    madeBy: Padarė <author-link>
     subreddit: Reddit
-    savegameUnnamed: Unnamed
-    puzzleMode: Puzzle Mode
-    back: Back
+    savegameUnnamed: Be Vardo
+    puzzleMode: Galvosūkių Režimas
+    back: Atgal
     puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
         DLC now on Steam for even more fun!
-    puzzleDlcWishlist: Wishlist now!
-    puzzleDlcViewNow: View Dlc
+    puzzleDlcWishlist: Įtraukti į pageidavimų sąrašą dabar!
+    puzzleDlcViewNow: Peržiūrėti Dlc
     mods:
-        title: Active Mods
+        title: Aktyvios Modifikacijos
         warningPuzzleDLC: Playing the Puzzle DLC is not possible with mods. Please
             disable all mods to play the DLC.
-    playingFullVersion: You are now playing the full version!
-    logout: Logout
+    playingFullVersion: Jūs dabar žaidžiate pilna versija!
+    logout: Atsijungti
     noActiveSavegames: No active savegames found - Click play to start a new game!
     playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
     playFullVersionStandalone: You can now also play the full version in your Browser!
 dialogs:
     buttons:
-        ok: OK
-        delete: Delete
-        cancel: Cancel
-        later: Later
-        restart: Restart
-        reset: Reset
+        ok: Gerai
+        delete: Naikinti
+        cancel: Atšaukti
+        later: Vėliau
+        restart: Iš Naujo
+        reset: Atstatyti
         getStandalone: Get Standalone
-        deleteGame: I know what I do
-        viewUpdate: View Update
-        showUpgrades: Show Upgrades
-        showKeybindings: Show Keybindings
-        retry: Retry
-        continue: Continue
-        playOffline: Play Offline
+        deleteGame: Aš žinau ką darau
+        viewUpdate: Peržiūrėti Naujinimą
+        showUpgrades: Rodyti Patobulinimus
+        showKeybindings: Rodyti Klavišų Surišimus
+        retry: Atstatyti
+        continue: Tęsti
+        playOffline: Žaisti Neprisijungus
     importSavegameError:
-        title: Import Error
-        text: "Failed to import your savegame:"
+        title: Importuoti Klaidą
+        text: "Nepavyko importuoti išsaugoto žaidimo:"
     importSavegameSuccess:
-        title: Savegame Imported
-        text: Your savegame has been successfully imported.
+        title: Išsaugotas Žaidimas Importuotas
+        text: Jūsų išsaugotas žaidimas sėkmingai importuotas.
     gameLoadFailure:
-        title: Game is broken
-        text: "Failed to load your savegame:"
+        title: Žaidimas sulūžęs
+        text: "Nepavyko įkelti jūsų išsaugoto žaidimo:"
     confirmSavegameDelete:
-        title: Confirm deletion
-        text: Are you sure you want to delete the following game?<br><br>
-            '<savegameName>' at level <savegameLevel><br><br> This can not be
-            undone!
+        title: Patvirtinti naikinimą
+        text: Ar tikrai norite ištrinti šį žaidimą?<br><br>
+            '<savegameName>' lygyje <savegameLevel><br><br> Tai negali būti
+            atšaukta!
     savegameDeletionError:
-        title: Failed to delete
-        text: "Failed to delete the savegame:"
+        title: Nepavyko ištrinti
+        text: "Nepavyko ištrinti išsaugotą žaidimą:"
     restartRequired:
-        title: Restart required
-        text: You need to restart the game to apply the settings.
+        title: Reikalingas perkrovimas
+        text: Norėdami pritaikyti nustatymus, turite iš naujo paleisti žaidimą.
     editKeybinding:
-        title: Change Keybinding
+        title: Pakeisti Klavišų Surišimus
         desc: Press the key or mouse button you want to assign, or escape to cancel.
     resetKeybindingsConfirmation:
         title: Reset keybindings
